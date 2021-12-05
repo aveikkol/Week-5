@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OneTo Ten/1.0.0": {
+        "runtime": {
+          "OneTo Ten.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OneTo Ten/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

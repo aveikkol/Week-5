@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\MoreLoops\TenTo one\bin\Debug\net5.0\TenTo one.exe
+C:\Users\angel\source\repos\MoreLoops\TenTo one\bin\Debug\net5.0\TenTo one.deps.json
+C:\Users\angel\source\repos\MoreLoops\TenTo one\bin\Debug\net5.0\TenTo one.runtimeconfig.json
+C:\Users\angel\source\repos\MoreLoops\TenTo one\bin\Debug\net5.0\TenTo one.runtimeconfig.dev.json
+C:\Users\angel\source\repos\MoreLoops\TenTo one\bin\Debug\net5.0\TenTo one.dll
+C:\Users\angel\source\repos\MoreLoops\TenTo one\bin\Debug\net5.0\ref\TenTo one.dll
+C:\Users\angel\source\repos\MoreLoops\TenTo one\bin\Debug\net5.0\TenTo one.pdb
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\TenTo one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\TenTo one.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\TenTo one.AssemblyInfo.cs
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\TenTo one.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\TenTo one.dll
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\ref\TenTo one.dll
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\TenTo one.pdb
+C:\Users\angel\source\repos\MoreLoops\TenTo one\obj\Debug\net5.0\TenTo one.genruntimeconfig.cache

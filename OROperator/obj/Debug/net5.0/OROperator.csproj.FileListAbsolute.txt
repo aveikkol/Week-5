@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.exe
+C:\Users\angel\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.deps.json
+C:\Users\angel\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.runtimeconfig.json
+C:\Users\angel\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.runtimeconfig.dev.json
+C:\Users\angel\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.dll
+C:\Users\angel\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\ref\OROperator.dll
+C:\Users\angel\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.pdb
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.AssemblyInfo.cs
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.dll
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\ref\OROperator.dll
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.pdb
+C:\Users\angel\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.genruntimeconfig.cache

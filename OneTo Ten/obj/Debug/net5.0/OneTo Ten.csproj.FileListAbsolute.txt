@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\bin\Debug\net5.0\OneTo Ten.exe
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\bin\Debug\net5.0\OneTo Ten.deps.json
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\bin\Debug\net5.0\OneTo Ten.runtimeconfig.json
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\bin\Debug\net5.0\OneTo Ten.runtimeconfig.dev.json
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\bin\Debug\net5.0\OneTo Ten.dll
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\bin\Debug\net5.0\ref\OneTo Ten.dll
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\bin\Debug\net5.0\OneTo Ten.pdb
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.AssemblyInfo.cs
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.dll
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\ref\OneTo Ten.dll
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.pdb
+C:\Users\angel\source\repos\MoreLoops\OneTo Ten\obj\Debug\net5.0\OneTo Ten.genruntimeconfig.cache
